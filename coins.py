@@ -1,6 +1,4 @@
 a = int(input("Get coins:  "))
-
-
 b = a // 25
 c = (a - b * 25)//10
 d = (a - b * 25 - c *10)//5
