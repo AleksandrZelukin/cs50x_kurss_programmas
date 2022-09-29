@@ -1,4 +1,4 @@
-print('Augstums: ', end='')
+print('Augstums: ', end='\n')
 h = int(input())
 
 while(h<0 or h > 8):
